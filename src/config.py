@@ -39,7 +39,7 @@ AUTH_CONFIG = {
     # E.g. Local Dev Env on port 8080: http://localhost:8080
     # E.g. Hosted on App Engine: https://your-application-id.appspot.com
     'OAUTH_REDIRECT_URI': '%s%s' % (
-        https://ga-super-proxy-153816.appspot.com)
+        'https://ga-super-proxy-153816.appspot.com')
 }
 
 # XSRF Settings
